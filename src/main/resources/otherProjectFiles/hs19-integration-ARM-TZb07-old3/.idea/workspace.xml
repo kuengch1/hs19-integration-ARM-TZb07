@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6eca08d4-828c-484d-8a1a-239720b901ac" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1VCZiq7fl65TbDadv7eG3bz2txS" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.excludes" />
+  </component>
+  <component name="RunManager" selected="Application.arm">
+    <configuration name="ResourceList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ResourceList" />
+      <module name="hs19-integration-ARM-TZb07" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="arm" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="arm" />
+      <module name="hs19-integration-ARM-TZb07" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="lowPassFilter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lowPassFilter" />
+      <module name="hs19-integration-ARM-TZb07" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="test" />
+      <module name="hs19-integration-ARM-TZb07" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.arm" />
+        <item itemvalue="Application.ResourceList" />
+        <item itemvalue="Application.lowPassFilter" />
+        <item itemvalue="Application.test" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6eca08d4-828c-484d-8a1a-239720b901ac" name="Default Changelist" comment="" />
+      <created>1576759167136</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1576759167136</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="755" y="303" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1576850201799">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state x="755" y="303" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.2048.1112/2560.0.2048.1112@0.0.2048.1112" timestamp="1576850201799" />
+    <state width="2005" height="305" key="GridCell.Tab.0.bottom" timestamp="1576845813752">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state width="2005" height="305" key="GridCell.Tab.0.bottom/0.0.2048.1112/2560.0.2048.1112@0.0.2048.1112" timestamp="1576845813752" />
+    <state width="2005" height="305" key="GridCell.Tab.0.center" timestamp="1576845813752">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state width="2005" height="305" key="GridCell.Tab.0.center/0.0.2048.1112/2560.0.2048.1112@0.0.2048.1112" timestamp="1576845813752" />
+    <state width="2005" height="305" key="GridCell.Tab.0.left" timestamp="1576845813751">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state width="2005" height="305" key="GridCell.Tab.0.left/0.0.2048.1112/2560.0.2048.1112@0.0.2048.1112" timestamp="1576845813751" />
+    <state width="2005" height="305" key="GridCell.Tab.0.right" timestamp="1576845813752">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state width="2005" height="305" key="GridCell.Tab.0.right/0.0.2048.1112/2560.0.2048.1112@0.0.2048.1112" timestamp="1576845813752" />
+    <state x="555" y="211" key="Maven.ArtifactSearchDialog" timestamp="1576850424300">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state x="555" y="211" key="Maven.ArtifactSearchDialog/0.0.2048.1112/2560.0.2048.1112@0.0.2048.1112" timestamp="1576850424300" />
+    <state x="505" y="130" key="SettingsEditor" timestamp="1576779465936">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state x="505" y="130" key="SettingsEditor/0.0.2048.1112/2560.0.2048.1112@0.0.2048.1112" timestamp="1576779465936" />
+    <state x="721" y="380" key="com.intellij.ide.util.TipDialog" timestamp="1576845826675">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state x="721" y="380" key="com.intellij.ide.util.TipDialog/0.0.2048.1112/2560.0.2048.1112@0.0.2048.1112" timestamp="1576845826675" />
+    <state x="681" y="259" key="run.anything.popup" timestamp="1576825818705">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state x="681" y="259" key="run.anything.popup/0.0.2048.1112/2560.0.2048.1112@0.0.2048.1112" timestamp="1576825818705" />
+  </component>
+</project>
